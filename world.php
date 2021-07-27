@@ -79,6 +79,9 @@ require_once "config.php";
             </li>
             <li class="nav-item">
                <a class="channel nav-link" data-value="http://30a-tv.com/music.m3u8?fluxustv.m3u8" href="javascript:void(0);">30A Music</a>
+	    </li>
+            <li class="nav-item">
+	       <a class="channel nav-link" data-value="http://killott.com:8000/24125124305227/72759212020556/167355" href="javascript:void(0);">M4 SPORT</a>	    
             </li>
             <li class="nav-item">
                <a class="channel nav-link" data-value="http://30a-tv.com/my999.m3u8" href="javascript:void(0);">30A TV</a>
